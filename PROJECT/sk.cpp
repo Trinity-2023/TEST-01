@@ -1,3 +1,6 @@
-void main(){
-cout<<"Hello-trinity";
+#include<iostream>
+using namespace std;
+int main(){
+    cout<<"Hello-trinity";
+    return 0;
 }
